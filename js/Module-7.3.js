@@ -13,7 +13,7 @@ var brothers= 'tanvir, abir, toha';
 var number = 10000;
 var isTrue = true;
 var nothing = null ;
-console.log(name,brothers,number,isTrue,nothing);
+console.log(name, brothers, number, isTrue, nothing);
 // var আমরা কখুনোই use করবো না । 
 
 // আমরা সবচেয়ে বেশি use করব , let and const 
@@ -40,4 +40,4 @@ Reassign value            true          true            false
 Re-Declare                true          false           false 
 Block scope               global        true            true
 hoisting                  true          much safer      much safer 
-Modern js                 avoid         use             use 
+Modern js                 avoid         use             use */
